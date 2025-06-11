@@ -35,8 +35,7 @@ To develop a tri-operational robotic arm controlled via **EMG (Electromyography)
 | Robotic Arm Kit or 3D-Printed Frame          | 1        | Structural frame of the arm                     |
 | Nylon Fishing Line                           | –        | Translates servo pull to finger movement        |
 
-> Full details available in [`hardware/component-list.md`](hardware/component-list.md)
-
+> Full details available in hardware section of the repo
 ---
 
 ## 🔄 System Architecture
