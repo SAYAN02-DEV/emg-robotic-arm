@@ -48,7 +48,6 @@ To develop a tri-operational robotic arm controlled via **EMG (Electromyography)
     - Rotating (wrist)
     - Lifting (elbow or base)
 
-See detailed explanation in [`docs/architecture.md`](docs/architecture.md).
 
 ---
 
@@ -61,7 +60,6 @@ See detailed explanation in [`docs/architecture.md`](docs/architecture.md).
     - Threshold comparison
     - Servo angle control using PWM
 
-Source code: [`firmware/esp8266_code/main.ino`](firmware/esp8266_code/main.ino)
 
 ---
 
